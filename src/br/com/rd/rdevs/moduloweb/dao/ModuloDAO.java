@@ -20,11 +20,11 @@ public class ModuloDAO {
 		super();
 	}
 	
-//	Exercício 04
-//	public List<Modulo> consultarModulos() {
+//	ExercÃ­cio 04
+//	public List<Modulo> consultarModulos() throws ParseException {
 //		
 //		List<Modulo> listarModulo = new ArrayList();
-//		SimpleDateFormat dateFormat - new SimpleDateFormat("yyyy-MM-dd");
+//		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 // 		Date date;
 //	
 //		Modulo modulo1 = new Modulo();
@@ -65,20 +65,20 @@ public class ModuloDAO {
 //		Modulo modulo6 = new Modulo();
 //		modulo6.setDsNome("BD");
 //		modulo6.setDsInstrutorTitular("Leonardo");
-//		modulo6.setDsInstrutorAuxiliar("Fábio");
+//		modulo6.setDsInstrutorAuxiliar("FÃ¡bio");
 //		date = dateFormat.parse("2020-06-20");
 //		modulo6.setDtInicio(date);
 //		
 //		Modulo modulo7 = new Modulo();
-//		modulo7.setDsNome("Aplicações Web");
-//		modulo7.setDsInstrutorTitular("Fábio");
+//		modulo7.setDsNome("AplicaÃ§Ãµes Web");
+//		modulo7.setDsInstrutorTitular("FÃ¡bio");
 //		modulo7.setDsInstrutorAuxiliar("Ivo");
 //		date = dateFormat.parse("2020-06-20");
 //		modulo7.setDtInicio(date);
 //		
 //		Modulo modulo8 = new Modulo();
 //		modulo8.setDsNome("Spring Boot");
-//		modulo8.setDsInstrutorTitular("Fábio");
+//		modulo8.setDsInstrutorTitular("FÃ¡bio");
 //		modulo8.setDsInstrutorAuxiliar("Ivo");
 //		date = dateFormat.parse("2020-06-20");
 //		modulo8.setDtInicio(date);
@@ -86,7 +86,7 @@ public class ModuloDAO {
 //		Modulo modulo9 = new Modulo();
 //		modulo9.setDsNome("Angular");
 //		modulo9.setDsInstrutorTitular("Jonas");
-//		modulo9.setDsInstrutorAuxiliar("Fábio");
+//		modulo9.setDsInstrutorAuxiliar("FÃ¡bio");
 //		date = dateFormat.parse("2020-06-20");
 //		modulo9.setDtInicio(date);
 //		
